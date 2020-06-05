@@ -1,0 +1,37 @@
+.citiH1 {
+    font-size: large;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.citiH2 {
+    font-size: medium;
+}
+
+.citiForm {
+    background-color: rgb(217, 217, 228)
+}
+
+.citiActionButton {
+    background-color: #004988;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 12px;
+    width: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+  .citiBackButton {
+    background-color: #004988;
+    border: none;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    text-decoration: none;
+    width: 100%;
+    height:100%;
+  }
