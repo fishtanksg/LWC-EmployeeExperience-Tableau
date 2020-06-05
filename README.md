@@ -1,6 +1,6 @@
 # Employee Experience using Tableau for analytics
 
-This repository contains code that achieves the following:
+This Lightningt Web Component (LWC) repository contains code that achieves the following:
 1. Defines specific Tableau dashboard in each component
 2. Creates a new record in Salesforce onClick() of Tableau dashboard
 
