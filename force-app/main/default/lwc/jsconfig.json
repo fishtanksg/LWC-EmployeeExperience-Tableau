@@ -1,0 +1,83 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/eeOverview": [
+                "eeOverview/eeOverview.js"
+            ],
+            "c/headcountDashboard": [
+                "headcountDashboard/headcountDashboard.js"
+            ],
+            "c/inventoryMacro": [
+                "inventoryMacro/inventoryMacro.js"
+            ],
+            "c/pendingStartDashboard": [
+                "pendingStartDashboard/pendingStartDashboard.js"
+            ],
+            "c/recruitMacro": [
+                "recruitMacro/recruitMacro.js"
+            ],
+            "c/serviceDetails": [
+                "serviceDetails/serviceDetails.js"
+            ],
+            "c/serviceExec": [
+                "serviceExec/serviceExec.js"
+            ],
+            "c/serviceIncident": [
+                "serviceIncident/serviceIncident.js"
+            ],
+            "c/servicePerformance": [
+                "servicePerformance/servicePerformance.js"
+            ],
+            "c/supplierDashboard": [
+                "supplierDashboard/supplierDashboard.js"
+            ],
+            "c/tabEEBehaviour": [
+                "tabEEBehaviour/tabEEBehaviour.js"
+            ],
+            "c/tabEECondition": [
+                "tabEECondition/tabEECondition.js"
+            ],
+            "c/tabEECovid": [
+                "tabEECovid/tabEECovid.js"
+            ],
+            "c/tabEEOpinion": [
+                "tabEEOpinion/tabEEOpinion.js"
+            ],
+            "c/tabEEOverview": [
+                "tabEEOverview/tabEEOverview.js"
+            ],
+            "c/tabHR9Box": [
+                "tabHR9Box/tabHR9Box.js"
+            ],
+            "c/tabHR9BoxDetail": [
+                "tabHR9BoxDetail/tabHR9BoxDetail.js"
+            ],
+            "c/tabInventoryMacro": [
+                "tabInventoryMacro/tabInventoryMacro.js"
+            ],
+            "c/tabRecruitMacro": [
+                "tabRecruitMacro/tabRecruitMacro.js"
+            ],
+            "c/tabServiceExec": [
+                "tabServiceExec/tabServiceExec.js"
+            ],
+            "c/tabServiceTech": [
+                "tabServiceTech/tabServiceTech.js"
+            ],
+            "c/tabTeamPerformance": [
+                "tabTeamPerformance/tabTeamPerformance.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
