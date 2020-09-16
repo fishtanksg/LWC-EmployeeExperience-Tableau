@@ -6,6 +6,8 @@ This Lightning Web Component (LWC) repository contains code that achieves the fo
 
 ## Background
 
+In collaboration with [Madhav Kannan](https://sg.linkedin.com/in/madhavkannan).
+
 This project is built to fill in the gap of Analytics as starting point in Employee Experience story.
 
 It has been used as a demo for Opportunities.
